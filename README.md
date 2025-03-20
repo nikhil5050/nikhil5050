@@ -26,9 +26,8 @@ I'm a *Java Full Stack Developer* with experience in building dynamic and respon
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)  
 
 ## 🔥 Projects  
-- *Exam Management System* (PHP, MySQL, Bootstrap)  
-- *Suhani Chatani Masale Website* (HTML, CSS)  
-- *Royal Gym Website* (HTML, CSS)  
+- *Exam Management System* (PHP, MySQL, Bootstrap ,html,css,javascript)  
+- *Suhani Chatani Masale Website* (HTML, CSS ,javascript ,bootstrap)   
 - *Portfolio Website* (Personal Project)  
 
 ## 📊 GitHub Stats  
